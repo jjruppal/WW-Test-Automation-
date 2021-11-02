@@ -1,0 +1,10 @@
+Install Python and Selenium library.
+
+Download chromedriver according to your OS and Chrome Version from this URL:
+https://chromedriver.chromium.org/downloads
+
+
+Unzip it and replace it with the one I have in the folder
+Now run the file and see how it works. 
+
+Let me know in case of any issues.
