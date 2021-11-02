@@ -19,7 +19,7 @@ chromeOptions = Options()
 chromePath = which("chromedriver")
 
 # starting ChromeDriver
-driver = webdriver.Chrome(executable_path=chromePath, options=chromeOptions)
+driver = webdriver.Chrome(executable_path="chromedriver.exe", options=chromeOptions)
 driver.maximize_window()
 
 # Getting the url
